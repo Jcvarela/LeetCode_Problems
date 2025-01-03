@@ -1,24 +1,11 @@
 ﻿using System.Xml.XPath;
 
-namespace leetCode;
+namespace LeetCode_Problems;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Console.WriteLine("Hello, World!");
-        // Console.WriteLine(PalindromeChecker.IsPalindrome(121));
-
-        // ListNode l1 = new ListNode(9, new ListNode(9, new ListNode(9)));
-        // ListNode l2 = new ListNode(9);
-        // AddTwoNumbers02 addTwoNumbers02 = new AddTwoNumbers02();
-        // var result = addTwoNumbers02.AddTwoNumbers(l1, l2);
-        // while (result != null)
-        // {
-        //     Console.WriteLine(result.val);
-        //     result = result.next;
-        // }
-
 
         // var result = LongestCommonPrefix0014.LongestCommonPrefix(new string[] { "flower", "flow", "flight" });
         TreeNode root = new TreeNode(90)
