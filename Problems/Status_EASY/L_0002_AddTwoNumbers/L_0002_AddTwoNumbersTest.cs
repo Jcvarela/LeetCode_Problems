@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace leetCode.Problems.Status_EASY.L_0002_AddTwoNumbers
+namespace LeetCode_Problems.Problems.Status_EASY.L_0002_AddTwoNumbers
 {
     public class L_0002_AddTwoNumbersTest
     {

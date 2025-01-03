@@ -1,7 +1,6 @@
-
 using Xunit;
 
-namespace leetCode.Problems.Status_EASY.L_0292_NimGame
+namespace LeetCode_Problems.Problems.Status_EASY.L_0292_NimGame
 {
     public class L_0292_NimGameTest
     {

@@ -5,7 +5,7 @@
 
 // You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-namespace leetCode.Problems.Status_EASY.L_0002_AddTwoNumbers
+namespace LeetCode_Problems.Problems.Status_EASY.L_0002_AddTwoNumbers
 {
     public class L_0002_AddTwoNumbers
     {
